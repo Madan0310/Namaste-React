@@ -1,0 +1,22 @@
+{
+  "name": "coding",
+  "version": "1.0.0",
+  "description": "This is Namaste React Episode 2 - Igniting",
+  "main": "index.js",
+  "scripts": {
+    "test": "Jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Madan0310/Namaste-React.git"
+  },
+  "author": "Madanmohan Komatireddy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Madan0310/Namaste-React/issues"
+  },
+  "homepage": "https://github.com/Madan0310/Namaste-React#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  }
+}
